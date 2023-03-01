@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Deniz</h1>
+<h1 align="center">Hi, I'm Sadık</h1>
 <h3 align="center">A Web Developer</h3>
 
 <h3 align="left">Technologies:</h3>
@@ -10,6 +10,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwindcss" width="33" height="30"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="33" height="30"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denizkukul&show_icons=true&theme=radical&locale=en&layout=compact" alt="denizkukul" width="55%" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadkcvd&show_icons=true&theme=radical&locale=en&layout=compact" alt="sadkcvd" width="55%" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=denizkukul&show_icons=true&theme=dark&locale=en" alt="denizkukul" width="55%" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sadkcvd&show_icons=true&theme=dark&locale=en" alt="sadkcvd" width="55%" /></p>
