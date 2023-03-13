@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-sadık-çavdar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sadık-çavdar/)](https://www.linkedin.com/in/sad%C4%B1k-%C3%A7avdar-b5564123a/)
+[![Linkedin Badge](https://img.shields.io/badge/-sadıkçavdar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sadıkçavdar/)](https://www.linkedin.com/in/sad%C4%B1k-%C3%A7avdar-b5564123a/)
 
 <h1 align="center">Hi, I'm Sadık</h1>
 <h3 align="center">A Web Developer</h3>
