@@ -16,5 +16,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sadkcvd&show_icons=true&theme=dark&locale=en" alt="sadkcvd" width="55%" /></p>
 
-![ThanksYou](https://img.shields.io/badge/🙏Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge)
-
